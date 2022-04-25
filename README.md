@@ -1,6 +1,9 @@
 # ramahdan_karim
 
-A new Flutter project.
+Splasscreen Bulan Ramadhan 2022
+Simple to use
+just to learning
+enjoy :)
 
 ## Getting Started
 
